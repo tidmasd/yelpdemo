@@ -5,6 +5,7 @@ gem 'pg', group: :production
 gem 'carrierwave'
 gem "fog"
 gem 'figaro'
+gem "mini_magick"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
