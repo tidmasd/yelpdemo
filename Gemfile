@@ -7,6 +7,7 @@ gem "fog"
 gem 'figaro'
 gem "mini_magick"
 gem 'devise'
+gem 'searchkick'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
